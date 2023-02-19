@@ -66,9 +66,7 @@ class MainActivity : AppCompatActivity() {
 
 //        url картинок
         val imagesList: List<String> = listOf(
-            "https://fotorelax.ru/wp-content/uploads/2016/12/Beautiful-nature-of-Canadas-landscapes-Mark-Jinks-23.jpg",
-            "https://crosti.ru/patterns/00/0d/c6/0d_picture_20df317f.jpg",
-            "https://img-fotki.yandex.ru/get/97201/127908635.1418/0_1ac2f7_fa876a0_orig.jpg"
+            "http://192.168.1.100/wall.jpg"
         )
 //        заменяем все url выше на локальную ссылку или правим путь
 //        "http://192.168.1.100/wall.jpg"
